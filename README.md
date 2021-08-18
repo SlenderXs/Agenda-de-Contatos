@@ -1,6 +1,6 @@
 # agendadecontatos
 
-A new Flutter project.
+Neste projeto, está sendo criado um aplicativo para o salvamento de contatos, detre eles pode se por, email, endereço, nome, telefone etc..
 
 ## Getting Started
 
